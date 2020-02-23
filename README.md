@@ -1,4 +1,4 @@
-# data_science_profile
+# Data Science Profile
 Compilation of Python Jupyter Project
 
 
